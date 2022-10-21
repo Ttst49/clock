@@ -33,6 +33,7 @@ body{
     bottom: 198px;
     transform-origin: bottom center;
     transform: rotate(0deg);
+    border-radius: 25px;
 }
 
 .minutesHand{
@@ -44,6 +45,7 @@ body{
     bottom: 198px;
     transform-origin: bottom center;
     transform: rotate(0deg);
+    border-radius: 25px;
 }
 
 .secondsHand{
@@ -55,4 +57,5 @@ body{
     bottom: 198px;
     transform-origin: bottom center;
     transform: rotate(0deg);
+    border-radius: 25px;
 }
